@@ -1,5 +1,3 @@
-
-
 namespace BreadthFirst
 {
     class Program
